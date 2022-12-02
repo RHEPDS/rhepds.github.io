@@ -1,6 +1,12 @@
-# rhepds.github.io
-EMEA Technical Partner Enablement Home
+---
+layout: default
+title: Home
+nav_order: 0
+permalink: /
+---
 
-On this page you will find the material of our offerings
+# EMEA Technical Partner Enablement Home
+
+On this page you will find supporting material of our offerings
 
 - [Red Hat Partner Bootcamp](https://rhepds.github.io/bootcamp)

@@ -1,3 +1,8 @@
+---
+layout: default
+title: How to add pages
+nav_order: 1
+---
 
 # How to create additional pages
 
