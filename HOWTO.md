@@ -1,10 +1,10 @@
 ---
 layout: default
-title: How to add pages
+title: How to add content
 nav_order: 1
 ---
 
-# How to create additional pages
+# How to create additional content pages
 
 We use the just-the-docs jekyll theme for our webpages. 
 To add a page to this home page you need to do the following:
