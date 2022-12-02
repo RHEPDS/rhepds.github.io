@@ -10,20 +10,20 @@ We use the just-the-docs jekyll theme for our webpages.
 To add a page to this home page you need to do the following:
 
 1. In your repository add the file `_config.yml` and edit accordingly:
-```
-title: Title of your course here
-description: Short description (optional)
-url: "http://rhepds.github.io/your-repo-name-here"
-markdown: kramdown
-remote_theme: just-the-docs/just-the-docs
-logo: "img/rhepds.png"
-aux_links:
-  "Main Page":
-    - "//rhepds.github.io"
-  "Red Hat EMEA Partner":
-    - "//www.redhat-partner.com"
-aux_links_new_tab: true
-```
+	```
+	title: Title of your course here
+	description: Short description (optional)
+	url: "http://rhepds.github.io/your-repo-name-here"
+	markdown: kramdown
+	remote_theme: just-the-docs/just-the-docs
+	logo: "img/rhepds.png"
+	aux_links:
+	  "Main Page":
+	    - "//rhepds.github.io"
+	  "Red Hat EMEA Partner":
+	    - "//www.redhat-partner.com"
+	aux_links_new_tab: true
+	```
 2. Edit  the title, description and url in `_config.yml` to point to your repository
 3. copy img/rhpds.png to your repository
 4. Add the link to your repository to README.md in this repository
