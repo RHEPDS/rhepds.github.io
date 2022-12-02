@@ -9,7 +9,7 @@ nav_order: 1
 We use the just-the-docs jekyll theme for our webpages. 
 To add a page to this home page you need to do the following:
 
-1. In your repository add the file `_config.yml` and edit accordingly:
+1. In your repository add the file [`_config.yml`](https://raw.githubusercontent.com/RHEPDS/rhepds.github.io/main/_config.yml):
 	```
 	title: Title of your course here
 	description: Short description (optional)
@@ -24,11 +24,11 @@ To add a page to this home page you need to do the following:
 	    - "//www.redhat-partner.com"
 	aux_links_new_tab: true
 	```
-2. Edit  the title, description and url in `_config.yml` to point to your repository
-3. copy img/rhpds.png to your repository
-4. Add the link to your repository to README.md in this repository
+2. Edit title, description and url in `_config.yml` to point to your repository
+3. copy `img/rhpds.png` from [here](https://github.com/RHEPDS/rhepds.github.io) to your repository
+4. Add the link to your repository to the [`README.md`](https://github.com/RHEPDS/rhepds.github.io/blob/main/README.md)
 
-A full documention and more examples of the `_config.yml` file can be found [here](https://just-the-docs.github.io/just-the-docs/docs/configuration/). 
+A full documention and more options for the `_config.yml` file can be found [here](https://just-the-docs.github.io/just-the-docs/docs/configuration/). 
 
 If you have more than one .md file in your repository you need to add a header to each .md-file.
 The headers need to look like this:
