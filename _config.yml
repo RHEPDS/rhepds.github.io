@@ -1,0 +1,14 @@
+
+title: Red Hat EMEA Technical Partner Enablement
+description: Here you will find our training material
+#url: "http://rhepds.github.io/"
+markdown: kramdown
+remote_theme: just-the-docs/just-the-docs
+# https://just-the-docs.github.io/just-the-docs/docs/configuration/
+logo: "img/rhepds.png"
+aux_links:
+  "Main Page":
+    - "//rhepds.github.io"
+  "Red Hat EMEA Partner":
+    - "//www.redhat-partner.com"
+aux_links_new_tab: true
