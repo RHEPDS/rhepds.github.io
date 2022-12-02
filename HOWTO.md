@@ -6,6 +6,8 @@ nav_order: 1
 
 # How to create additional content pages
 
+## Prepare your repository for content generation
+
 We use the just-the-docs jekyll theme for our webpages. 
 To add a page to this home page you need to do the following:
 
@@ -65,6 +67,21 @@ parent: Home
 
 The other parameters are identical. 
 
+## Activate Auto-generation of your page
+
+Once you have created `_config.yaml`, copied the logo and optionally added the headers to your .md files, you need to enable the autogeneration of that page, whenever you create new content.
+
+1. Browse to the homepage of you repository, e.g. https://github.com/RHEPDS/bootcamp and click on `Settings`
+2. Click on Pages and select the following parameters
+	- **Source:**: Deploy from a branch
+	- **Branch**: select `main` and `/(root)` 
+	- Click on `Save`
+
+![Screenshot of GitHub Settings](img/gh-settings.png)
+
+From now on your pages are rebuild at every commit to your main branch. You can see the log at the `Actions` tab on your repository.
+
+![Screenshot of GitHub Actions](img/gh-actions.png)
 
 
 
