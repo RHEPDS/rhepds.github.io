@@ -13,9 +13,9 @@ aux_links:
     - "//connect.redhat.com"
   "Red Hat Partner Training Portal":
     - "https://connect.redhat.com/en/training"
-  "Red Hat demo platform"
+  "Red Hat demo platform":
     - "https://demos.redhat.com"
-  "Free Red Hat Labs"
+  "Free Red Hat Labs":
     - "https://www.redhat.com/en/interactive-labs"
 aux_links_new_tab: true
 search_enabled: false
