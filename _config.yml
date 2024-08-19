@@ -9,7 +9,13 @@ logo: "img/rhepds.png"
 aux_links:
   "Main Page":
     - "//rhepds.github.io"
-  "Red Hat EMEA Partner":
-    - "//www.redhat-partner.com"
+  "Red Hat Partner Portal":
+    - "//connect.redhat.com"
+  "Red Hat Partner Training Portal":
+    - "https://connect.redhat.com/en/training"
+  "Red Hat demo platform"
+    - "https://demos.redhat.com"
+  "Free Red Hat Labs"
+    - "https://www.redhat.com/en/interactive-labs"
 aux_links_new_tab: true
 search_enabled: false
